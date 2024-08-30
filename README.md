@@ -55,7 +55,7 @@ End Sub
 ## Project 2: Automated Email Sender Macro
 This macro automates the process of sending emails based on the data entered in the Excel sheet. With a single execution, it composes and sends emails to designated recipients, reducing manual efforts and ensuring timely communication.
 
-```
+``` VBA Code
 Sub Sent_To_DEPARTMENT()
     ' Macro to send an email with data from the "Analysis Data" worksheet
 
